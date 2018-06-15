@@ -1,6 +1,6 @@
 # NumpyMatrixMagic
 
-Considering a 2D matrix of numbers from 0 to 9 with variable width and height.And we have to find the square submatrix with the highest sum of boundary elements.
+Considering a 2D matrix of numbers from 0 to 9 with variable width and height. And we have to find the square submatrix with the highest sum of boundary elements.
 
 Input :	
 
@@ -38,5 +38,5 @@ Output should be :
 	 1 1 9	
 	 8 5 2
 
-This program ensures the output for all sorts of inputted matrix sizes (P*Q) and finds the square submatrix of any size (provided size of square matrix must be smaller than the big matrix) with highest sum of bundary elements.  
+This program ensures the output for all sorts of inputted matrix sizes (P*Q) and finds the square submatrix of any size (provided size of square matrix must be smaller than the big matrix) with highest sum of boundary elements.  
 Usage of Numpy Library has been involved in this program. This is simply a practice work of my programming in python just to further my skills in Python language. 
